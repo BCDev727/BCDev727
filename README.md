@@ -12,7 +12,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
 
 
 <p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=mathiasechi&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=kingkws727&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p>
 
 
@@ -21,7 +21,7 @@ I'm a professinal developer with BlockChain | DApp | Smart Contract | Web3.js | 
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/kingkws727">
-    <img alt="Solidity" src="https://github.com/mathiasechi/mathiasechi/blob/main/icons/solidity.png" />
+    <img alt="Solidity" src="https://github.com/kingkws727/kingkws727/blob/main/icons/solidity.png" />
   </a>
 </div>
 <div>
