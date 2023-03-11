@@ -101,12 +101,14 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://git.io/streak-stats"  align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/BCDev727/BCDev727" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats"  align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" align="center" />
+  </a>
+  <a href="https://github.com/BCDev727/BCDev727" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" align="center" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/BCDev727/BCDev727" align="center">
