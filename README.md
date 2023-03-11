@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/BCDev727/BCDev727/blob/master/code.gif">
+</p>
 <h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am John, Full-stack Web Engineer</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
@@ -14,16 +17,14 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/BCDev727/BCDev727">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/BCDev727/BCDev727">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-
 
 ## 🔧 Technologies & Tools
 
