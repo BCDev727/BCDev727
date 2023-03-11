@@ -10,6 +10,11 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 
 ## 🔧 Technologies & Tools
 
+<!-- <div>
+  <a href="https://github.com/BCDev727/BCDev727">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCDev727&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=5" />
+  </a>
+</div> -->
 <div>
   <a href="https://github.com/BCDev727">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
@@ -17,8 +22,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/BCDev727">
     <img alt="Solidity" src="https://github.com/BCDev727/BCDev727/blob/main/icons/solidity.png" />
   </a>
-</div>
-<div>
   <a href="https://github.com/BCDev727">
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   </a>
@@ -37,8 +40,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/BCDev727">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   </a>
-</div>
-<div>
   <a href="https://github.com/BCDev727">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
@@ -63,8 +64,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/BCDev727">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
   </a>
-</div>
-<div>
   <a href="https://github.com/BCDev727">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
   </a>
@@ -80,8 +79,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/BCDev727">  
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   </a>
-</div>
-<div>
   <a href="https://github.com/BCDev727">  
     <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
   </a>
@@ -100,26 +97,26 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/BCDev727">  
     <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   </a>
-  
-<!--   <a href="https://github.com/BCDev727/BCDev727">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCDev727&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=3" />
-</a> -->
 </div>
 
 ## &#x1f4c8; GitHub Stats
 
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" align="left" height="200" />
-  </a>
-  <a href="https://github.com/BCDev727/BCDev727">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" align="left" height="200" />
+</a>
+<a href="https://github.com/BCDev727/BCDev727">
+  <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
+</a>
 
+<div align="center">
   <a href="https://github.com/BCDev727/BCDev727" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/BCDev727/BCDev727" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
+</div>
 
 
