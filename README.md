@@ -4,7 +4,7 @@ Nice to meet you! 🤗 <br/>
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github.com/BCDev727/BCDev727/blob/main/code.gif">
 </p>
 
@@ -101,19 +101,17 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" align="left" height="200" />
+<a href="https://git.io/streak-stats"  align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BCDev727&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&hide_border=true" />
 </a>
-<a href="https://github.com/BCDev727/BCDev727">
-  <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" height="200" />
+<a href="https://github.com/BCDev727/BCDev727" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BCDev727&show_icons=true&line_height=27&count_private=true&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" alt="J.Mark's GitHub Stats" />
 </a>
 
 <div align="center">
   <a href="https://github.com/BCDev727/BCDev727" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/BCDev727/BCDev727" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BCDev727&repo=BCDev727&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>    
