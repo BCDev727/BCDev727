@@ -10,11 +10,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 
 ## 🔧 Technologies & Tools
 
-<!-- <div>
-  <a href="https://github.com/BCDev727/BCDev727">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCDev727&hide=java,html,css&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&langs_count=5" />
-  </a>
-</div> -->
 <div>
   <a href="https://github.com/BCDev727">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
