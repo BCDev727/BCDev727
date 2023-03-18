@@ -1,4 +1,4 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am John, Senior Software Engineer | Blockchain | AI Expert</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am John, Senior Software Engineer | Blockchain Expert</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
 I'm very familiar with UX/UI | Web Design | Web2 | Web3 | DApp | Machine Learning  as Full-stack developer.
